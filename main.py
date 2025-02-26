@@ -17,3 +17,5 @@ if __name__ == '__main__':
                        service_cost=3000, insurance_cost=7000),
     )
     calc.print_cars()
+
+    print('Hello World!')
